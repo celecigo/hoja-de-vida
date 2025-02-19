@@ -1,0 +1,64 @@
+<link rel="stylesheet" href="style.css">
+
+
+  <header class = "encab">
+    <h1>CESAR L. CIFUENTES</h1>
+    <p>Líder de Soporte</p>
+  </header>
+
+<div class="circularimage">
+  <img src="image/WhatsApp Image.jpeg" alt="Cesar" class="circular-image">"
+</div>
+
+  <aside class = "infop">
+    <h5>INFORMACIÓN DE CONTACTO</h5>
+      <ul class = "list">
+        <li>Teléfono:<br> +57 3214918285</li><br>
+        <li> Correo electrónico:<br>                            leonarcef@gmail.com </li> <br> 
+        <li>Dirección:<br> Bogotá</li>
+      </ul>
+  </aside>
+  
+  <section class="section">
+    <h2>HABILIDADES</h2
+    <ul class="list">
+      <li>Conocimiento en programas de diseño como:             Corel Draw, Lustrator, Photoshop</li><br>
+      <li>Conocimiento en Plotter Gran formato</li><br>
+      <li>Manejo de herramientas de Carpintería</li><br>
+      <li>Conocimiento en Instalación de campañas publicitarias tales como vinilos, frost, bastidores, branding vehicular</li><br>
+      <li>Manejo Moto-Carro</li>
+    </ul>
+  </section>
+
+<article class="about-section">
+  <h2>SOBRE MÍ</h2>
+  <p>Líder de soporte con experiencia en el trato a las personas, siempre veo a los demás como compañeros de aprendizaje. Versátil, siempre hay una solución a cada problema.</p>
+</article>
+
+
+  <div class="container">
+    <section class="work-experience">
+      <h2>EXPERIENCIA LABORAL</h2>
+      <h3>Líder de Soporte</h3>
+      <p>INTRADATA SAS / Bogotá / nov. 2022 - Actualidad</p>
+      <p>Lidero un equipo 40 profesionales en soporte técnico, fomentando un ambiente colaborativo mejorando la eficiencia del servicio, Gestión de pruebas funcionales en los desarrollos creados por la empresa mejorando la parte visual y eficiente de las aplicaciones web.</p>
+
+      <h3>Auxiliar de Acompañamiento a funcionarios de la fiscalía</h3>
+      <p>HOC auditores y consultores / Bogotá / ene. 2020 - nov. 2022</p>
+      <p>Gestionar los servicios de salud prestados a funcionarios de la fiscalía de alto perfil y riesgo, en atención de urgencias, velando por su buena atención y calidad en cada uno de los ámbitos. Manejo de personal bajo presión, logística con personal de seguridad.</p>
+
+      <h3>Jefe de Producción</h3>
+      <p>Mara Impresión y Marketing / Bogotá / ene. 2010 - Jul. 2019</p>
+      <p>Encargado de producción y entrega de campañas publicitarias a clientes como mc donals, Jenos pizza, Manejo de personal bajo presión, versatilidad en el manejo de plotter gran formato como máquinas uv, latex, tintas solventes, plotter de corte.</p>
+    </section>
+
+  </article> 
+
+    
+  <footer class="education">
+    <h2>EDUCACIÓN</h2>
+    <p>Título de Educación<br> Secundaria</p>
+    <p>Carlos Arturo Torres 2004</p>
+    <p>Universidad San Buena Ventura</p>
+    <p>Estudiante de 4 semestre en Desarrollo de Software</p>
+    </footer> 
